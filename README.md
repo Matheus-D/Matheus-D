@@ -16,16 +16,16 @@
 ##
 <strong>Sobre mim</strong>
 
-Olá! Sou um(a) desenvolvedor(a) de software apaixonado(a) com experiência em várias linguagens de programação. Minha formação abrange uma ampla gama de tecnologias, incluindo HTML, CSS, JavaScript, Python, React e C#.
+Olá! Sou um(a) desenvolvedor(a) de software apaixonado(a) com experiência em várias linguagens de programação. Minha formação abrange uma ampla gama de tecnologias, incluindo <strong>HTML, CSS, JavaScript, Python, React e C#</strong>.
 
-Estou atualmente me formando em Ciência da Computação/Descomplica/2ºSemestre com foco nessas linguagens e estou sempre em busca de aprimorar minhas habilidades através de projetos desafiadores e aprendizado contínuo.
+Estou atualmente me formando em <strong>Ciência da Computação/Descomplica/2ºSemestre</strong> com foco nessas linguagens e estou sempre em busca de aprimorar minhas habilidades através de projetos desafiadores e aprendizado contínuo.
 ##
 
 Aqui estão alguns dos projetos em que tenho trabalhado recentemente:
 
-alura_books-: Nesse projeto você direciona livros por filtros ou preços.
+<strong>alura_books-</strong>: Nesse projeto você direciona livros por filtros ou preços.
 
-numero-secreto: Esse projeto você diz um número por voz e tenta descobrir o número secreto.
+<strong>numero-secreto</strong>: Esse projeto você diz um número por voz e tenta descobrir o número secreto.
 
 ##
 
