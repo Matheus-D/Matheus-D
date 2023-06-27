@@ -51,7 +51,3 @@ Se você quiser contribuir para algum dos meus projetos, sinta-se à vontade par
 <strong>Agradecimentos</strong>
 
 Agradeço por visitar meu perfil e conferir meus projetos. Fique à vontade para explorar os repositórios e fornecer feedback. Estou ansioso(a) para ouvir de você!
-
-Esse é apenas um exemplo básico de um README.md para destacar sua formação em linguagens de programação específicas e fornecer informações sobre você e seus projetos. Sinta-se à vontade para personalizá-lo de acordo com suas necessidades e estilo.
-
-
