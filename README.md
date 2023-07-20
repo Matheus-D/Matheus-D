@@ -23,9 +23,9 @@ Estou atualmente me formando em <strong>Ciência da Computação/Descomplica/2º
 
 Aqui estão alguns dos projetos em que tenho trabalhado recentemente:
 
-<strong>alura_books-</strong>: Nesse projeto você direciona livros por filtros ou preços.
+<strong>ScreenSound-</strong>: Projeto para a aplicação a orientação a Objetos em c#.
 
-<strong>numero-secreto</strong>: Esse projeto você diz um número por voz e tenta descobrir o número secreto.
+<strong>ByteBank-</strong>: Projeto Orientado a Objetos para definir um banco.
 
 ##
 
